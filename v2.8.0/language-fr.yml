@@ -1,7 +1,8 @@
+# Language: fr
 
-msg-shop-type-admin-regular: Shop d'admin
+msg-shop-type-admin-regular: Admin shop
 msg-shop-type-selling: Magasin de revente
-msg-shop-type-buying: Magasa d'achat
+msg-shop-type-buying: 'Magasa d''achat'
 msg-shop-type-trading: Magasin d'échange
 msg-shop-type-book: Livre de magasin
 msg-shop-type-desc-admin-regular: a un stock illimité

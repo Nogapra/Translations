@@ -1,44 +1,46 @@
 # Language: fr
 
-msg-shop-type-admin-regular: Admin shop
-msg-shop-type-selling: Magasin de revente
-msg-shop-type-buying: 'Magasa d''achat'
-msg-shop-type-trading: Magasin d'échange
-msg-shop-type-book: Livre de magasin
-msg-shop-type-desc-admin-regular: a un stock illimité
-msg-shop-type-desc-selling: vend des objets aux joueurs
-msg-shop-type-desc-buying: achète des objets aux joueurs
-msg-shop-type-desc-trading: échanges d'objets avec des joueurs
-msg-shop-type-desc-book: vente des exemplaires de livres
+msg-shop-type-admin-regular: "Admin shop"
+msg-shop-type-selling: "Magasin de vente"
+msg-shop-type-buying: "Magasin d'achat"
+msg-shop-type-trading: "Magasin d'échange"
+msg-shop-type-book: "Livre de magasin"
+
+msg-shop-type-desc-admin-regular: "a un stock illimité"
+msg-shop-type-desc-selling: "vend des objets aux joueurs"
+msg-shop-type-desc-buying: "achète des objets aux joueurs"
+msg-shop-type-desc-trading: "échanges d'objets avec des joueurs"
+msg-shop-type-desc-book: "vente des exemplaires de livres"
+
 msg-shop-object-type-living: '{type}'
-msg-shop-object-type-sign: panneau
-msg-shop-object-type-npc: npc
-msg-selected-shop-type: '&aType de magasin sélectionné: &6{type} &7({description})'
-msg-selected-shop-object-type: '&aType d'objet sélectonné: &6{type}'
+msg-shop-object-type-sign: "panneau"
+msg-shop-object-type-npc: "pnj"
+
+msg-selected-shop-type: "&aType de magasin sélectionné : &6{type} &7({description})'"
+msg-selected-shop-object-type: "&aType d'objet sélectonné : &6{type}"
+
 msg-creation-item-selected: |
-  &aCréation de Magsasin:
+  &aCréation de Magsasin :
   &e  Clic gauche / droit pour sélectionner le type de magasin.
   &e  Sneak + clic gauche / droit pour sélectionner le type d'objet.
   &e  Cliquez avec le bouton droit sur un coffre pour le sélectionner.
   &e  Cliquez ensuite avec le bouton droit sur un bloc pour placer le commerçant.
-msg-button-previous-page: '&6<- Page précédente ({prev_page} sur {max_page})'
+
+msg-button-previous-page: "&6<- Page précédente ({prev_page} sur {max_page})"
 msg-button-previous-page-lore: []
-msg-button-next-page: '&6Page suivante ({next_page} sur {max_page}) ->'
+msg-button-next-page: "&6Page suivante ({next_page} sur {max_page}) ->"
 msg-button-next-page-lore: []
-msg-button-current-page: '&6Page {page} sur {max_page}'
+msg-button-current-page: "&6Page {page} sur {max_page}"
 msg-button-current-page-lore: []
+
 msg-button-name: '&aMettre un nom de Magasin'
 msg-button-name-lore:
 - Vous permet de renommer
 - votre commerçant
-msg-button-chest: '&aVoir l'inventaire du coffre'
+msg-button-chest: "&aVoir l'inventaire du coffre"
 msg-button-chest-lore:
 - Vous permet de voir l'inventaire
 - votre commerçant utilise
-msg-button-type: '&aChoisissez l'apparence'
-msg-button-type-lore:
-- Vous permet de changer le look
-- de votre commerçant
 msg-button-delete: '&4Supprimer'
 msg-button-delete-lore:
 - Ferme et enlève
